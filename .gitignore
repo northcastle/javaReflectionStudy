@@ -1,0 +1,8 @@
+# ## IDEA ##
+
+# 忽略 .idea 目录
+/.idea/
+# 忽略 .iml 文件
+*.iml
+# 忽略编译后的class目录 out
+/out/
