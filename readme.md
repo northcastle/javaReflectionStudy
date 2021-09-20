@@ -15,3 +15,5 @@ com.northcastle.firstexpirence.Cat.hi() : 方法hi()
 com.northcastle.firstexpirence.Cat.mi() : 方法mi()
 application.properties : 配置文件
 ```
+## 3.classtry
+> 对Class类的使用测试
