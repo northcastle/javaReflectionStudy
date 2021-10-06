@@ -66,5 +66,6 @@ public class ApplicationForField {
 
         brandField.set(car,"测试修改brand");
         System.out.println(car);
+
     }
 }
