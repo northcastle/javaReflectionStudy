@@ -17,3 +17,5 @@ application.properties : 配置文件
 ```
 ## 3.classtry
 > 对Class类的使用测试
+## 4.groupclass
+> 对Class类中的常用API的使用测试
