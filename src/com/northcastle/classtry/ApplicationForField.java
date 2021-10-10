@@ -67,5 +67,14 @@ public class ApplicationForField {
         brandField.set(car,"测试修改brand");
         System.out.println(car);
 
+        // 7.获取属性的修饰符和类型
+        // private static String a;
+        // 2 + 8 = 10
+        Field a = clazz.getDeclaredField("a");
+        int modifiers = a.getModifiers();
+        Class<?> type = a.getType();
+        System.out.println("修饰符是 ： "+modifiers);
+        System.out.println("类型是 ： "+type);
+
     }
 }

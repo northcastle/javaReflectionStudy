@@ -11,6 +11,9 @@ public class Car {
     //2.私有属性
     private String brand;
     private String price;
+
+    private static String a;
+
     //3.无参构造
     public Car() { }
     //4.有参构造
