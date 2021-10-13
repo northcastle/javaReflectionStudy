@@ -43,6 +43,10 @@ public class Bird {
         System.out.println("method9 的参数是 ： "+a+" - "+b);
         System.out.println("method9...");
     }
-
+    private static String method10(String a,int b,boolean c){
+        System.out.println("method10 的参数是 ： "+a+"-"+b+"-"+c);
+        System.out.println("method10...");
+        return "method10";
+    }
 
 }

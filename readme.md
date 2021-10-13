@@ -19,3 +19,5 @@ application.properties : 配置文件
 > 对Class类的使用测试
 ## 4.groupclass
 > 对Class类中的常用API的使用测试
+## 5.groupmethod
+> 对Method的常用API的使用测试
